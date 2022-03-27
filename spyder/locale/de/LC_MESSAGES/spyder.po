@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2022-03-25 13:02-0500\n"
-"PO-Revision-Date: 2022-03-27 15:36\n"
+"PO-Revision-Date: 2022-03-27 15:57\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -239,11 +239,12 @@ msgstr "Der Kontext der Tastenkombination muss entweder '_' oder dem Plugin 'CON
 #: spyder/config/manager.py:649
 msgid "There was an error while loading Spyder configuration options. You need to reset them for Spyder to be able to launch.\n\n"
 "Do you want to proceed?"
-msgstr ""
+msgstr "Beim Laden der Spyder-Konfigurationsoptionen ist ein Fehler aufgetreten. Sie müssen diese zurücksetzen, damit Spyder gestartet werden kann.\n\n"
+"Möchten Sie fortfahren?"
 
 #: spyder/config/manager.py:657
 msgid "Spyder configuration files resetted!"
-msgstr ""
+msgstr "Spyder-Konfigurationsdateien zurückgesetzt!"
 
 #: spyder/config/utils.py:25 spyder/plugins/explorer/widgets/explorer.py:1710 spyder/plugins/pylint/main_widget.py:861
 msgid "Python files"
@@ -1029,7 +1030,7 @@ msgstr "Wird heruntergeladen"
 
 #: spyder/plugins/completion/providers/kite/widgets/install.py:213
 msgid "Kite comes with a native app called the Copilot <br>which provides you with real time <br>documentation as you code.<br><br>When Kite is done installing, the Copilot will <br>launch automatically and guide you through the <br>rest of the setup process."
-msgstr ""
+msgstr "Kite wird mit einer nativen App namens Copilot <br>geliefert, die Ihnen während des Programmierens <br>eine Echtzeit-Dokumentation liefert.<br><br>Wenn die Installation von Kite abgeschlossen ist<br>, startet der Copilot automatisch und <br>führt Sie durch den Rest des Einrichtungsprozesses."
 
 #: spyder/plugins/completion/providers/kite/widgets/install.py:221
 msgid "OK"
@@ -2309,11 +2310,11 @@ msgstr "Bis zur aktuellen Zeile ausführen"
 
 #: spyder/plugins/editor/plugin.py:709
 msgid "Run &from current line"
-msgstr ""
+msgstr "&Ab der aktuellen Zeile ausführen"
 
 #: spyder/plugins/editor/plugin.py:710 spyder/plugins/editor/widgets/codeeditor.py:4411
 msgid "Run from current line"
-msgstr ""
+msgstr "Ab der aktuellen Zeile ausführen"
 
 #: spyder/plugins/editor/plugin.py:717 spyder/plugins/editor/widgets/codeeditor.py:4390
 msgid "Run cell"
@@ -4217,7 +4218,7 @@ msgstr "Konnte keinen ssh-Tunnel öffnen. Der Fehler war:\n\n"
 
 #: spyder/plugins/ipythonconsole/widgets/main_widget.py:1560
 msgid "The Python environment or installation whose interpreter is located at<pre>    <tt>{0}</tt></pre>doesn't have the <tt>spyder-kernels</tt> module or the right version of it installed ({1}). Without this module is not possible for Spyder to create a console for you.<br><br>You can install it by activating your environment (if necessary) and then running in a system terminal:<pre>    <tt>{2}</tt></pre>or<pre>    <tt>{3}</tt></pre>"
-msgstr ""
+msgstr "Die Python-Umgebung oder -Installation, deren Interpreter sich unter<pre>    <tt>{0}</tt></pre>befindet, hat das Modul <tt>spyder-kernels</tt> oder die richtige Version davon nicht installiert ({1}). Ohne dieses Modul ist es für Spyder nicht möglich, eine Konsole für Sie zu erstellen.<br><br>Sie können es installieren, indem Sie Ihre Umgebung aktivieren (falls erforderlich) und anschließend in einem Systemterminal ausführen:<pre>    <tt>{2}</tt></pre>oder<pre>    <tt>{3}</tt></pre>"
 
 #: spyder/plugins/ipythonconsole/widgets/main_widget.py:1863
 msgid "Do you want to close this console?"
@@ -5275,11 +5276,11 @@ msgstr "Ausführungskonfiguration verwalten."
 
 #: spyder/plugins/run/widgets.py:31
 msgid "Run file with default configuration"
-msgstr ""
+msgstr "Datei mit Standardkonfiguration ausführen"
 
 #: spyder/plugins/run/widgets.py:32
 msgid "Run file with custom configuration"
-msgstr ""
+msgstr "Datei mit benutzerdefinierter Konfiguration ausführen"
 
 #: spyder/plugins/run/widgets.py:33
 msgid "Execute in current console"
