@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2022-03-25 13:02-0500\n"
-"PO-Revision-Date: 2022-03-28 13:10\n"
+"PO-Revision-Date: 2022-03-28 13:18\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "MIME-Version: 1.0\n"
@@ -2298,19 +2298,19 @@ msgstr "Executar seleção ou linha atual"
 
 #: spyder/plugins/editor/plugin.py:702
 msgid "Run &to current line"
-msgstr ""
+msgstr "Executar até a linha atual"
 
 #: spyder/plugins/editor/plugin.py:703 spyder/plugins/editor/widgets/codeeditor.py:4407
 msgid "Run to current line"
-msgstr ""
+msgstr "Executar até a linha atual"
 
 #: spyder/plugins/editor/plugin.py:709
 msgid "Run &from current line"
-msgstr ""
+msgstr "Executar a partir da linha atual"
 
 #: spyder/plugins/editor/plugin.py:710 spyder/plugins/editor/widgets/codeeditor.py:4411
 msgid "Run from current line"
-msgstr ""
+msgstr "Executar a partir da linha atual"
 
 #: spyder/plugins/editor/plugin.py:717 spyder/plugins/editor/widgets/codeeditor.py:4390
 msgid "Run cell"
@@ -5272,11 +5272,11 @@ msgstr "Gerencie a configuração de execução."
 
 #: spyder/plugins/run/widgets.py:31
 msgid "Run file with default configuration"
-msgstr ""
+msgstr "Execute o arquivo com a configuração padrão"
 
 #: spyder/plugins/run/widgets.py:32
 msgid "Run file with custom configuration"
-msgstr ""
+msgstr "Execute o arquivo com a configuração personalizada"
 
 #: spyder/plugins/run/widgets.py:33
 msgid "Execute in current console"
