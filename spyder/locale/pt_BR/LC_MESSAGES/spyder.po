@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2022-03-25 13:02-0500\n"
-"PO-Revision-Date: 2022-03-25 22:13\n"
+"PO-Revision-Date: 2022-03-28 13:10\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "MIME-Version: 1.0\n"
@@ -237,11 +237,12 @@ msgstr "O contexto do atalho deve coincidir com '_' ou o `CONF_SECTION` do plugi
 #: spyder/config/manager.py:649
 msgid "There was an error while loading Spyder configuration options. You need to reset them for Spyder to be able to launch.\n\n"
 "Do you want to proceed?"
-msgstr ""
+msgstr "Ocorreu um erro ao carregar as opções de configuração do Spyder. Você precisa redefini-las para o Spyder para poder iniciar.\n\n"
+"Deseja continuar?"
 
 #: spyder/config/manager.py:657
 msgid "Spyder configuration files resetted!"
-msgstr ""
+msgstr "Arquivos de configuração do Spyder redefinidos!"
 
 #: spyder/config/utils.py:25 spyder/plugins/explorer/widgets/explorer.py:1710 spyder/plugins/pylint/main_widget.py:861
 msgid "Python files"
