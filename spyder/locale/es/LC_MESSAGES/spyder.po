@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2022-03-25 13:02-0500\n"
-"PO-Revision-Date: 2022-03-25 22:12\n"
+"PO-Revision-Date: 2022-03-28 18:57\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -236,11 +236,12 @@ msgstr "El contexto del atajo debe coincidir con ’_’ o la sección `CONF_SEC
 #: spyder/config/manager.py:649
 msgid "There was an error while loading Spyder configuration options. You need to reset them for Spyder to be able to launch.\n\n"
 "Do you want to proceed?"
-msgstr ""
+msgstr "Hubo un error al cargar las opciones de configuración de Spyder. Necesita reiniciarlas para que Spyder pueda ejecutarse.\n\n"
+"¿Quiere continuar?"
 
 #: spyder/config/manager.py:657
 msgid "Spyder configuration files resetted!"
-msgstr ""
+msgstr "¡Archivos de configuración de Spyder restablecidos!"
 
 #: spyder/config/utils.py:25 spyder/plugins/explorer/widgets/explorer.py:1710 spyder/plugins/pylint/main_widget.py:861
 msgid "Python files"
@@ -2305,19 +2306,19 @@ msgstr "Ejecutar la &selección o línea actual"
 
 #: spyder/plugins/editor/plugin.py:702
 msgid "Run &to current line"
-msgstr ""
+msgstr "Ejecutar &hasta la línea actual"
 
 #: spyder/plugins/editor/plugin.py:703 spyder/plugins/editor/widgets/codeeditor.py:4407
 msgid "Run to current line"
-msgstr ""
+msgstr "Ejecutar hasta la línea actual"
 
 #: spyder/plugins/editor/plugin.py:709
 msgid "Run &from current line"
-msgstr ""
+msgstr "Ejecutar &desde línea actual"
 
 #: spyder/plugins/editor/plugin.py:710 spyder/plugins/editor/widgets/codeeditor.py:4411
 msgid "Run from current line"
-msgstr ""
+msgstr "Ejecutar desde la línea actual"
 
 #: spyder/plugins/editor/plugin.py:717 spyder/plugins/editor/widgets/codeeditor.py:4390
 msgid "Run cell"
@@ -5287,11 +5288,11 @@ msgstr "Gestionar configuración para ejecución."
 
 #: spyder/plugins/run/widgets.py:31
 msgid "Run file with default configuration"
-msgstr ""
+msgstr "Ejecutar archivo con la configuración por defecto"
 
 #: spyder/plugins/run/widgets.py:32
 msgid "Run file with custom configuration"
-msgstr ""
+msgstr "Ejecutar archivo con configuración personalizada"
 
 #: spyder/plugins/run/widgets.py:33
 msgid "Execute in current console"
